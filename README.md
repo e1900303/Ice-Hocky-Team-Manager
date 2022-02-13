@@ -11,6 +11,10 @@ date in the combo box in GUI. And the statistics of players, which is basically 
 they have scored through out all the matches, can also be seen by simply clicking the button to 
 show.
 
+[screenshot1](https://github.com/e1900303/Ice-Hocky-Team-Manager/blob/oop1.png?raw=true)
+
+
+
 
 
 
