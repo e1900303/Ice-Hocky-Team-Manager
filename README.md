@@ -1,7 +1,8 @@
 # Ice-Hocky-Team-Manager
-An app to manage your hockey team!
+*An app to manage your hockey team!*
 
-Project Description:
+## Project Description:
+
 The project is an application which is used to store data of the matches the team has participate. 
 User can enter the date, opponent team’s name and the result of that match. Thus, user can enter 
 the point each team member has scored during the game. The list of players (which is stored in a 
