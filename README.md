@@ -38,15 +38,15 @@ show.
 
 ### The source code file includes 4 classes:
 
--**Main.class**: this is the main class which is used to execute the program. It contains all the graphical 
+- **Main.class**: this is the main class which is used to execute the program. It contains all the graphical 
 user interface, and methods required to make the program runnable: creating games, saving to files, 
 opening files, showing stats of players, etc
--**Date.class**: this class is used to parse date strings into integer variables.
+- **Date.class**: this class is used to parse date strings into integer variables.
 **Match.class**: this is the class which is used to output the match data and the score team members
 made during the match.
--**Player.class**: this class is used to output the summed point of each player through out all the 
+- **Player.class**: this class is used to output the summed point of each player through out all the 
 matches.
--**players.txt**: this is the text file with a list of all the team members. The program implements the list 
+- **players.txt**: this is the text file with a list of all the team members. The program implements the list 
 to the combo box in the GUI. User can edit the file as he/she wants: deleting, adding new members.
 
 
